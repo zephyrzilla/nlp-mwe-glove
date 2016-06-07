@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Glove
 
 Cython general implementation of the Glove multi-threaded training.
@@ -63,3 +64,6 @@ The model is controlled by setting several hyperpameters.
 * `step_size` float : the learning rate for the model
 * `workers` int : number of worker threads used for training
 * `batch_size` int : how many examples should each thread receive (controls the size of the job queue)
+=======
+# nlp-mwe-glove
+>>>>>>> 3d1bcfdc10f63b70fc0241c445800a7d723ae593
